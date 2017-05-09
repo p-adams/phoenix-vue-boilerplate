@@ -1,6 +1,6 @@
-# Phoenixvue
+# phoenix-vue-boilerplate
 
-# Minimal boilerplate for getting started with Phoenix and Vue.js
+# A Minimal boilerplate for getting started with Phoenix and Vue.js
 
 To start your Phoenix app:
 
